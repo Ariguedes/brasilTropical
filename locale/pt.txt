@@ -179,33 +179,33 @@ panorama_FD1AA8FB_F33E_072A_41DD_12FFAE65A0AC.label = tropical_visual02
 panorama_FB872595_F68E_D9C6_41E2_15A78E63A414.label = tropical_visual03
 
 ### Video
-videolevel_2FEA0558_0B82_CE92_4199_8C2F2E17D284.posterURL = media/video_E7BA54DF_F6B6_7F42_41EA_55733CAA6101_poster_pt.jpg
-videolevel_2FEA0558_0B82_CE92_4199_8C2F2E17D284.url = media/video_E7BA54DF_F6B6_7F42_41EA_55733CAA6101_pt.mp4
-videolevel_2FEB35BC_0B82_C992_419A_D5F46AF8870C.posterURL = media/video_E7C80ED1_F6B6_2B5E_41C1_BFA2BC9C303B_poster_pt.jpg
-videolevel_2FEB35BC_0B82_C992_419A_D5F46AF8870C.url = media/video_E7C80ED1_F6B6_2B5E_41C1_BFA2BC9C303B_pt.mp4
-videolevel_2FF3348A_0B82_CE76_41A3_F5A6918C4D9E.posterURL = media/video_E8478649_FB45_7664_41E6_E0AD73985A1B_poster_pt.jpg
-videolevel_2FF3348A_0B82_CE76_41A3_F5A6918C4D9E.url = media/video_E8478649_FB45_7664_41E6_E0AD73985A1B_pt.mp4
-videolevel_2FE8C620_0B82_CAB2_41A2_57E28BCDA7D2.posterURL = media/video_F9010F03_F6B6_6AC2_41D8_34BC3C4F13DD_poster_pt.jpg
-videolevel_2FE8C620_0B82_CAB2_41A2_57E28BCDA7D2.url = media/video_F9010F03_F6B6_6AC2_41D8_34BC3C4F13DD_pt.mp4
+videolevel_559F818B_4EAD_E22A_41C6_755A92BB4A23.posterURL = media/video_E7BA54DF_F6B6_7F42_41EA_55733CAA6101_poster_pt.jpg
+videolevel_559F818B_4EAD_E22A_41C6_755A92BB4A23.url = media/video_E7BA54DF_F6B6_7F42_41EA_55733CAA6101_pt.mp4
+videolevel_558021DC_4EAD_E22E_41D2_FEB4A1FB0B43.posterURL = media/video_E7C80ED1_F6B6_2B5E_41C1_BFA2BC9C303B_poster_pt.jpg
+videolevel_558021DC_4EAD_E22E_41D2_FEB4A1FB0B43.url = media/video_E7C80ED1_F6B6_2B5E_41C1_BFA2BC9C303B_pt.mp4
+videolevel_559A10E3_4EAD_E21A_41B1_ACA044409122.posterURL = media/video_E8478649_FB45_7664_41E6_E0AD73985A1B_poster_pt.jpg
+videolevel_559A10E3_4EAD_E21A_41B1_ACA044409122.url = media/video_E8478649_FB45_7664_41E6_E0AD73985A1B_pt.mp4
+videolevel_5580D22F_4EAD_E66A_41C0_89C57E4E8E3E.posterURL = media/video_F9010F03_F6B6_6AC2_41D8_34BC3C4F13DD_poster_pt.jpg
+videolevel_5580D22F_4EAD_E66A_41C0_89C57E4E8E3E.url = media/video_F9010F03_F6B6_6AC2_41D8_34BC3C4F13DD_pt.mp4
 
 ### Video Subtitles
 
 ## Skin
 
 ### Button
-Button_D512F48F_FD4A_AAFC_41E6_B142D0D7AB40_mobile.label = AMBIENTES >
 Button_D512F48F_FD4A_AAFC_41E6_B142D0D7AB40.label = AMBIENTES >
-Button_D5157496_FD4A_AAEC_41C7_D3E16B7A2324_mobile.label = BACK
+Button_D512F48F_FD4A_AAFC_41E6_B142D0D7AB40_mobile.label = AMBIENTES >
 Button_D5151499_FD4A_AAE4_41EC_000FD59C974D_mobile.label = BACK
+Button_D5157496_FD4A_AAEC_41C7_D3E16B7A2324_mobile.label = BACK
 Button_D5127497_FD4A_AAEC_41DE_79466DB436DD_mobile.label = BACK
 Button_D512C494_FD4A_AAEC_41A3_0757CF8C3CBE_mobile.label = BACK
 Button_D512F48F_FD4A_AAFC_41E6_B142D0D7AB40.pressedLabel = Inserdt Text
 Button_D512F48F_FD4A_AAFC_41E6_B142D0D7AB40_mobile.pressedLabel = Inserdt Text
-Button_D5157493_FD4A_AAE4_41EC_2318E643150E_mobile.label = KACHASODROMO
 Button_D5157493_FD4A_AAE4_41EC_2318E643150E.label = KACHASODROMO
-Button_D5156493_FD4A_AAE4_41CF_124FEDAFBF9D.pressedLabel = Lorem Ipsum
-Button_D5155493_FD4A_AAE4_41E5_867A115B3DBB.label = Lorem Ipsum
+Button_D5157493_FD4A_AAE4_41EC_2318E643150E_mobile.label = KACHASODROMO
 Button_D5154493_FD4A_AAE4_41E0_1C3F04C4C637.label = Lorem Ipsum
+Button_D5155493_FD4A_AAE4_41E5_867A115B3DBB.label = Lorem Ipsum
+Button_D5156493_FD4A_AAE4_41CF_124FEDAFBF9D.pressedLabel = Lorem Ipsum
 Button_D5152496_FD4A_AAEC_41E7_FA0176424934_mobile.label = Lorem Ipsum
 Button_D512C497_FD4A_AAEC_41DF_BF91D43421F7_mobile.label = Lorem Ipsum
 Button_D512F496_FD4A_AAEC_41E4_D34C891FD47D_mobile.label = Lorem Ipsum
@@ -215,15 +215,15 @@ Button_D515D49A_FD4A_AAE4_41AE_B7E5AEB88D37_mobile.label = Lorem Ipsum
 Button_D515E49A_FD4A_AAE4_41E1_929E12FB3964_mobile.label = Lorem Ipsum
 Button_D515F499_FD4A_AAE4_41D2_57DB9B9765A3_mobile.label = Lorem Ipsum
 Button_D5128499_FD4A_AAE4_41C2_ACAD92F3E41B_mobile.label = Lorem Ipsum
-Button_D5129499_FD4A_AAE4_41DF_240232023D61_mobile.label = Lorem Ipsum
 Button_D5156493_FD4A_AAE4_41CF_124FEDAFBF9D_mobile.pressedLabel = Lorem Ipsum
+Button_D5129499_FD4A_AAE4_41DF_240232023D61_mobile.label = Lorem Ipsum
 Button_D5155493_FD4A_AAE4_41E5_867A115B3DBB_mobile.label = Lorem Ipsum
 Button_D5154493_FD4A_AAE4_41E0_1C3F04C4C637_mobile.label = Lorem Ipsum
-Button_D512B499_FD4A_AAE4_41AC_D7D2E91D0511_mobile.pressedLabel = Lorem Ipsum
+Button_D512B499_FD4A_AAE4_41AC_D7D2E91D0511_mobile.label = Lorem Ipsum
 Button_D5142495_FD4A_AAEC_41D3_41417560F9D2_mobile.label = Lorem Ipsum
 Button_D5141495_FD4A_AAEC_41B6_A9081E9DD62C_mobile.label = Lorem Ipsum
-Button_D5140495_FD4A_AAEC_41E5_ABA0730AC95D_mobile.label = Lorem Ipsum
 Button_D5140495_FD4A_AAEC_41E5_ABA0730AC95D_mobile.pressedLabel = Lorem Ipsum
+Button_D5140495_FD4A_AAEC_41E5_ABA0730AC95D_mobile.label = Lorem Ipsum
 Button_D515F495_FD4A_AAEC_41D8_54A65FD76158_mobile.label = Lorem Ipsum
 Button_D515E495_FD4A_AAEC_41D4_B0DA816A5204_mobile.label = Lorem Ipsum
 Button_D5153498_FD4A_AAE4_41D1_A0E105E05DFA_mobile.label = Lorem Ipsum
@@ -231,11 +231,11 @@ Button_D515C495_FD4A_AAEC_41D8_CE0FA8A14E77_mobile.label = Lorem Ipsum
 Button_D515B495_FD4A_AAEC_41E4_CF828ED52B91_mobile.label = Lorem Ipsum
 Button_D515A495_FD4A_AAEC_41DD_98B18368B4B9_mobile.label = Lorem Ipsum
 Button_D5156498_FD4A_AAE4_41D0_D062A64B3C0A_mobile.label = Lorem Ipsum
-Button_D512B499_FD4A_AAE4_41AC_D7D2E91D0511_mobile.label = Lorem Ipsum
+Button_D512B499_FD4A_AAE4_41AC_D7D2E91D0511_mobile.pressedLabel = Lorem Ipsum
 Button_D5153496_FD4A_AAEC_41EF_4575DD0DA8E4_mobile.label = Lorem Ipsum
 Button_D512D499_FD4A_AAE4_41D3_E251815101BE_mobile.label = Lorem Ipsum
-Button_D5151496_FD4A_AAEC_41E6_11941073A0D6_mobile.label = Lorem Ipsum
 Button_D5151496_FD4A_AAEC_41E6_11941073A0D6_mobile.pressedLabel = Lorem Ipsum
+Button_D5151496_FD4A_AAEC_41E6_11941073A0D6_mobile.label = Lorem Ipsum
 Button_D5150496_FD4A_AAEC_4183_A2022C88865A_mobile.label = Lorem Ipsum
 Button_D512E499_FD4A_AAE4_41B3_16E9EABEBBEE_mobile.label = Lorem Ipsum
 Button_D5124497_FD4A_AAEC_41D6_6DCECB43B74F_mobile.label = Lorem Ipsum
@@ -244,9 +244,9 @@ Button_D5154498_FD4A_AAE4_41CE_05F32673B130_mobile.label = Lorem Ipsum
 Button_D512B497_FD4A_AAEC_41E2_FA46F6A7D0A4_mobile.label = Lorem Ipsum
 Button_D512A497_FD4A_AAEC_41D9_8EDBD9D4E4B3_mobile.label = Lorem Ipsum
 Button_D5155498_FD4A_AAE4_41EF_1DD0B35461F0_mobile.label = Lorem Ipsum
-Button_D5121497_FD4A_AAEB_41E0_3F30ED92EC9D_mobile.pressedLabel = Lorem Ipsum
-Button_D5122497_FD4A_AAEC_41E1_F4D73DB7B663_mobile.label = Lorem Ipsum
 Button_D5121497_FD4A_AAEB_41E0_3F30ED92EC9D_mobile.label = Lorem Ipsum
+Button_D5122497_FD4A_AAEC_41E1_F4D73DB7B663_mobile.label = Lorem Ipsum
+Button_D5121497_FD4A_AAEB_41E0_3F30ED92EC9D_mobile.pressedLabel = Lorem Ipsum
 Button_D5158498_FD4A_AAE4_41E6_C42AA8CC67D4_mobile.label = Lorem Ipsum
 Button_D5159498_FD4A_AAE4_41EC_EC457853BA60_mobile.label = Lorem Ipsum
 Button_D515D495_FD4A_AAEC_41E9_45AE714AFD0D_mobile.label = Lorem ipsum
@@ -289,6 +289,11 @@ Image_C71D064F_FD45_967C_41EA_2A90692338EF_mobile.url = skin/Image_C71D064F_FD45
 Image_C71D064F_FD45_967C_41EA_2A90692338EF.url = skin/Image_C71D064F_FD45_967C_41EA_2A90692338EF_pt.png
 Image_CA7AC4E1_FDCA_EA24_41DB_DDCFB4A25C71_mobile.url = skin/Image_CA7AC4E1_FDCA_EA24_41DB_DDCFB4A25C71_mobile_pt.png
 Image_CA7AC4E1_FDCA_EA24_41DB_DDCFB4A25C71.url = skin/Image_CA7AC4E1_FDCA_EA24_41DB_DDCFB4A25C71_pt.png
+
+### Label
+Label_579B6339_4EBE_6676_41D2_2B9F98AFC6D2.text = (81) 99736.5273
+Label_54711D70_4EB2_A2F6_41D2_A691E961F719.text = Ari Guedes Alcoforado
+Label_55509646_4EB2_EE1A_41C3_4E3F953C2463.text = EM MANUTENÇĀO
 
 ### Multiline Text
 HTMLText_D515E490_FD4A_AAE4_41A1_0D8F45E826F6.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Ari Guedes Alcoforado</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>ri.guedes.01@gmail.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tel.: +55 81 99736 5273</I></SPAN></SPAN></DIV></div>

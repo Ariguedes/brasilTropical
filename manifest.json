@@ -1,5 +1,4 @@
 {
- "theme_color": "#FFFFFF",
  "icons": [
   {
    "src": "misc/icon16.png",
@@ -38,7 +37,8 @@
   }
  ],
  "name": "Brasil Tropical",
+ "start_url": "index.htm?installed=true",
  "background_color": "#FFFFFF",
- "display": "fullscreen",
- "start_url": "index.htm"
+ "theme_color": "#FFFFFF",
+ "display": "fullscreen"
 }
